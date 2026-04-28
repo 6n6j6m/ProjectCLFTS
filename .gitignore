@@ -21,3 +21,6 @@ events.out.tfevents.*
 .idea/
 *.swp
 *.swo
+
+# Any JSON
+*.json
